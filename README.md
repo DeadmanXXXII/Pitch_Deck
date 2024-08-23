@@ -5,8 +5,8 @@
 - **OOTB Mid-Market Cybersecurity Product Platform**
 - **"Where Cybersecurity Meets Innovation"**
 - **Blu Corbel aka DeadmanXXXII**
-    themadhattersplayground@gmail.com
-    +447576285686
+    themadhattersplayground@gmail.com    
+    +447576285686                        
     21f Campbell Court, Ayr, KA80SF.
   
 - **Logo and Website:**
