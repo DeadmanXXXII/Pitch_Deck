@@ -1,7 +1,7 @@
 # Pitch_Deck
 
 ### **Slide 1: Title Slide**
-- **Title:**@TheMadHattersPlayground.com
+- **Title:** @TheMadHattersPlayground.com
 - **Subtitle:**
 OOTB Mid-Market Cybersecurity Product Platform
 - **Tagline:**
