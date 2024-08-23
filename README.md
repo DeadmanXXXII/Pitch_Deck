@@ -2,13 +2,10 @@
 
 ### **Slide 1: Title Slide**
 - **Title:** @TheMadHattersPlayground.com
-- 
 - **Subtitle:**
 OOTB Mid-Market Cybersecurity Product Platform
-
 - **Tagline:**
 "Where Cybersecurity Meets Innovation"
-
 - **Your Name and Contact Info:**
 
     Blu Corbel aka DeadmanXXXII
