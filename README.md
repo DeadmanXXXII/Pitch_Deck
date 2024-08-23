@@ -71,7 +71,7 @@ There are three stages and on two you actually get to use samples. However, for 
 Our tools such as ZombieSlayer (which scans all ports and kills remote connections and the processes involved.), Labyrinth (My automated incident response tool that can be integrated with windows task manager), Quick fire secure servers (nginx, azure, AWS, GCP and my custom Home2Cloud servers for scaling from home to company), Basic-SOCDrills (A script that allows multiple defense procedures to be completed simultaneously), QuickSwitch (Gives xou some breathing space during a zero day event by rewriting xour technology addressing including MAC)and CyberWarrior a fully automated enterprise security system including threat hunting, pentesting, network sniffing, user behavior detection, system and database updates the full package.
 
 ### **Slide 5: Diversified Offerings**
-- **./#H4cked1t Clothing Brand:**
+- **#H4ck3d_It Clothing Brand:**
 This is a cyber themed fashion franchise I gave designed.
 I have contact with production teams and they await orders.
 
