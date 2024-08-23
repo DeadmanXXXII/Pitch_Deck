@@ -1,23 +1,15 @@
 # Pitch_Deck
 
 ### **Slide 1: Title Slide**
-- **Title:** @TheMadHattersPlayground.com
-- **Subtitle:**
-OOTB Mid-Market Cybersecurity Product Platform
-- **Tagline:**
-"Where Cybersecurity Meets Innovation"
-- **Your Name and Contact Info:**
-
-    Blu Corbel aka DeadmanXXXII
-
+- **@TheMadHattersPlayground.com**
+- **OOTB Mid-Market Cybersecurity Product Platform**
+- **"Where Cybersecurity Meets Innovation"**
+- **Blu Corbel aka DeadmanXXXII**
     themadhattersplayground@gmail.com
-
     +447576285686
-
     21f Campbell Court, Ayr, KA80SF.
   
 - **Logo and Website:**
-
     [https://the-mad-hatters-playground.com](https://the-mad-hatters-playground.com)
 
 ![Logo/Nft](https://raw.githubusercontent.com/DeadmanXXXII/DeadmanXXXII.github.io/main/site_pics/logo/nft/logo2%20(1).png)
