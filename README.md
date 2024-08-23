@@ -15,7 +15,7 @@ themadhattersplayground@gmail.com
 - **Logo and Website:**
 [https://the-mad-hatters-playground.com](https://the-mad-hatters-playground.com)
 
-![Logo/Nft](https://raw.githubusercontent.com/DeadmanXXXII/DeadmanXXXII.github.io/blob/main/site_pics/logo/nft/logo2%20(1).png)
+![Logo/Nft](https://raw.githubusercontent.com/DeadmanXXXII/DeadmanXXXII.github.io/main/site_pics/logo/nft/logo2%20(1).png)
 
 ### **Slide 2: Problem Statement**
 - **Cybersecurity Threat Landscape:** Discuss the growing threats in cybersecurity (e.g., DDoS attacks, ransomware, aerospace vulnerabilities) and the challenges mid-market companies face in defending against these threats.
