@@ -11,16 +11,17 @@ OOTB Mid-Market Cybersecurity Product Platform
 
 - **Your Name and Contact Info:**
 
-Blu Corbel aka DeadmanXXXII
+    Blu Corbel aka DeadmanXXXII
 
-themadhattersplayground@gmail.com
+    themadhattersplayground@gmail.com
 
-+447576285686
+    +447576285686
 
-21f Campbell Court, Ayr, KA80SF.
+    21f Campbell Court, Ayr, KA80SF.
   
 - **Logo and Website:**
-[https://the-mad-hatters-playground.com](https://the-mad-hatters-playground.com)
+
+    [https://the-mad-hatters-playground.com](https://the-mad-hatters-playground.com)
 
 ![Logo/Nft](https://raw.githubusercontent.com/DeadmanXXXII/DeadmanXXXII.github.io/main/site_pics/logo/nft/logo2%20(1).png)
 
