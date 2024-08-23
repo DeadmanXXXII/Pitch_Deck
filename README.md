@@ -74,8 +74,11 @@ Our tools such as ZombieSlayer (which scans all ports and kills remote connectio
 - **./#H4cked1t Clothing Brand:**
 This is a cyber themed fashion franchise I gave designed.
 I have contact with production teams and they await orders.
+
+![Turtle neck jumper](https://raw.githubusercontent.com/DeadmanXXXII/Pitch_Deck/main/Screenshot_20240824-005310.png)
+
 - **Crypto Token:**
-Under the direction if loopcreativeandy a YouTuber U got into token creation on Solana using the CLI Solana tools. With thusnyou are able to airdrop real Solana ti build tokens on.
+Under the direction if loopcreativeandy a YouTuber U got into token creation on Solana using the CLI Solana tools. With thusnyou are able to airdrop real Solana too build tokens on.
 
   [Solana Explorer Address](https://explorer.solana.com/address/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe)
 
