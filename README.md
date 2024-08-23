@@ -2,15 +2,18 @@
 
 ### **Slide 1: Title Slide**
 - **Title:** @TheMadHattersPlayground.com
-- **Subtitle:** OOTB Mid-Market Cybersecurity Product Platform
-- **Tagline:** "Where Cybersecurity Meets Innovation"
+- **Subtitle:**
+OOTB Mid-Market Cybersecurity Product Platform
+- **Tagline:**
+"Where Cybersecurity Meets Innovation"
 - **Your Name and Contact Info:**
 Blu Corbel aka DeadmanXXXII
 themadhattersplayground@gmail.com
 +447576285686
 21f Campbell Court, Ayr, KA80SF.
   
-- **Logo and Website:** [https://the-mad-hatters-playground.com](https://the-mad-hatters-playground.com)
+- **Logo and Website:**
+[https://the-mad-hatters-playground.com](https://the-mad-hatters-playground.com)
 
 ### **Slide 2: Problem Statement**
 - **Cybersecurity Threat Landscape:** Discuss the growing threats in cybersecurity (e.g., DDoS attacks, ransomware, aerospace vulnerabilities) and the challenges mid-market companies face in defending against these threats.
