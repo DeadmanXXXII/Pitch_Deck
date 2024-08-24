@@ -12,10 +12,12 @@
     +447576285686                        
     21f Campbell Court, Ayr, KA80SF.
   
-- **Logo and Website:**
+- **Logo and Websites:**
 
+**Wix based**
 [https://the-mad-hatters-playground.com](https://the-mad-hatters-playground.com)
 
+**Independent build under construction**
 [https://deadmanxxxii.github.io](https://deadmanxxxii.github.io)
 
 ![Logo/Nft](https://raw.githubusercontent.com/DeadmanXXXII/DeadmanXXXII.github.io/main/site_pics/logo/nft/logo2%20(1).png)
