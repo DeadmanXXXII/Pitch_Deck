@@ -111,10 +111,16 @@ Thus will continue to be the case as the series ends and Dissection Section star
 - **Discord Server:**
 Working in collaboration with the safer internet project in Australia and the Google Developers Program and more we have a server full of events and information consistently.
 
-- **External Third party Digital Art and content creation company:**
+#### - **Anonymous Heroes:**
+This is a cybersecurity professional based Sci-Fi comic.
+It will include industry celebraties with permissions so far like Gabrielle B (ComShark), Jared Derival (Mr Magna Cyber), Ron Sharon (The suit), Heath Adams (Captain HA), Joas and Iris Santos (The Santos Twins), Wesley Gerrard (TrebleSmak), Myself (The Mask), and others with permission to come like John Hammond (Rusty), Network Chuck (Bohemian), Ryan Montgomery (Zero).
+Playing Heroes or Villains depending on choice. This is takes place in a dimension running simultaneously to our own the dataverse. Where A group of Criminals, Professionals and Government all unlikely heroes come together and traverse all the odds to protect the world from impending doom time and again.
+
+**External Third party Digital Art and content creation company:**
 
 **ArtzNGamez**
-This is owned by Miss Cody Willett, she is a young, inspired and passionate artist with a deep desire for integration with technology to produce masterpieces. The hand drawn and AI driven artwork on my website for my NFTs and CyberShorts series was all derived from her work which was then tailored by us. 
+This is owned by Miss Cody Willett, she is a young, inspired and passionate artist with a deep desire for integration with technology to produce masterpieces. 
+The hand drawn and AI driven artwork on my website for my NFTs and CyberShorts series was all derived from her work which was then tailored by us. 
 A full working and professional rapport with this company has been established and is continuing.
 She has asked for her details to remain private until requested.
   
