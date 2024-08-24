@@ -75,11 +75,18 @@ Our tools such as ZombieSlayer (which scans all ports and kills remote connectio
 ### **Slide 5: Diversified Offerings**
 
 - **Hunter, HunterGPT and Red Horizon Labs:**
-This is a bug bounty program, a custom GPT module and the machine setups for each of the labs. This includes frontend and backend designs, tools and samples. For the latter you must be added as a collaborator on the repository for legal logging reasons non-negotiable.
+This is a bug bounty program, a custom GPT module and the machine setups for each of the labs.
+This includes frontend and backend designs, tools and samples.
+For the latter you must be added as a collaborator on the repository for legal logging reasons non-negotiable.
+These tools include our revolutionary Chaveiros, Labyrinth and QuickSwitch.
 
 [Hunter, HunterGPT and Red Horizon labs](https://github.com/DeadmanXXXII/Hunter-HunterGPT)
 
 [Ransomware Defense lab and Chaveiros system](https://github.com/DeadmanXXXII/Ransomeware_Defense)
+
+[Labyrinth](https://github.com/DeadmanXXXII/Labyrinth)
+
+[QuickSwitch](https://github.com/DeadmanXXXII/QuickSwitch)
 
 - **#H4ck3d_It Clothing Brand:**
 This is a cyber themed fashion franchise I have designed.
