@@ -82,7 +82,7 @@ This is a bug bounty program, a custom GPT module and the machine setups for eac
 [Ransomware Defense lab and Chaveiros system](https://github.com/DeadmanXXXII/Ransomeware_Defense)
 
 - **#H4ck3d_It Clothing Brand:**
-This is a cyber themed fashion franchise I gave designed.
+This is a cyber themed fashion franchise I have designed.
 I have contact with production teams and they await orders.
 
 ![Turtle neck jumper](https://raw.githubusercontent.com/DeadmanXXXII/Pitch_Deck/main/Screenshot_20240824-005310.png)
@@ -103,6 +103,13 @@ Thus will continue to be the case as the series ends and Dissection Section star
 
 - **Discord Server:**
 Working in collaboration with the safer internet project in Australia and the Google Developers Program and more we have a server full of events and information consistently.
+
+- **External Third party Digital Art and content creation company:**
+
+**ArtzNGamez**
+This is owmed by Miss Cody Willett, she is a young, inspired amd passionate artist with a deep desire for integration with technology to produce masterpieces, the hand drawn and AI driven artwork on my website was for my NFTs and CyberShorts series was all derived from her work which was then tailored by us. A full working and professional rapport with this company has been established and is continuing.
+She has asked for her details to remain private until requested.
+  
 
 ### **Slide 6: Market Opportunity**
 
