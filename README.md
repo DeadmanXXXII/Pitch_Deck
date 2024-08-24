@@ -77,8 +77,8 @@ I have contact with production teams and they await orders.
 
 ![Turtle neck jumper](https://raw.githubusercontent.com/DeadmanXXXII/Pitch_Deck/main/Screenshot_20240824-005310.png)
 
-- **Crypto Token:**
-Under the direction if loopcreativeandy a YouTuber U got into token creation on Solana using the CLI Solana tools. With thusnyou are able to airdrop real Solana too build tokens on.
+- **Crypto Token ./#H4c3d1t.exe:**
+Under the direction of loopcreativeandy a YouTuber I got into token creation on Solana using the CLI Solana tools. With this you are able to airdrop real Solana too build tokens on with added metadata and an NFT piece of Artwork included.
 
   [Solana Explorer Address](https://explorer.solana.com/address/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe)
 
@@ -86,6 +86,11 @@ Under the direction if loopcreativeandy a YouTuber U got into token creation on 
 These channels showcase iur skills and knowledge.
 Our homemade CyberShorts series with its 3 editions Red, Blue and Purple team series is a complete diverse knowledge series for the entire cybersecurity plateau.
 Thus will continue to be the case as the series ends and Dissection Section starts which, will delve further into the topics, technology and techniques used during these incidents.
+
+[Instagram](https://www.instagram.com/cybershorts2024/)
+
+[YouTube](https://youtube.com/@themadhattersplayground?si=4wBiw_MAix1Vqwol)
+
 - **Discord Server:**
 Working in collaboration with the safer internet project in Australia and the Google Developers Program and more we have a server full of events and information consistently.
 
