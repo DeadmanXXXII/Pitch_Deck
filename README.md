@@ -143,7 +143,7 @@ Working in collaboration with the safer internet project in Australia and the Go
 #### - **Anonymous Heroes:**
 This is a cybersecurity professional based Sci-Fi comic.
 It will include industry celebraties with permissions so far like Gabrielle B (ComShark), Jared Derival (Mr Magna Cyber), Ron Sharon (The suit), Heath Adams (Captain HA), Joas and Iris Santos (The Santos Twins), Wesley Gerrard (TrebleSmak), Myself (The Mask), and others with permission to come like John Hammond (Rusty), Network Chuck (Bohemian), Ryan Montgomery (Zero).
-Playing Heroes or Villains depending on choice. This is takes place in a dimension running simultaneously to our own the dataverse. Where A group of Criminals, Professionals and Government all unlikely heroes come together and traverse all the odds to protect the world from impending doom time and again.
+Playing Heroes or Villains depending on choice. This takes place in a dimension running simultaneously to our own the dataverse. Where A group of Criminals, Professionals and Government all unlikely heroes come together and traverse all the odds to protect the world from impending doom time and again.
 
 **External Third party Digital Art and content creation company:**
 
