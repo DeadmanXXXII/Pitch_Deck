@@ -171,10 +171,6 @@ Certain products will have tiered pricing due to further consulting and work nee
 Some products available will include staff pricing due to the necessity of their actions being the product bought.
 i.e. Pentesting, Red team operations, content creation etc.
 
-Certainly! Here's the completed content for **Slide 9: Go-to-Market Strategy** and **Slide 10: Financial Projections** with all the details filled in:
-
----
-
 ### **Slide 9: Go-to-Market Strategy**
 
 #### **Marketing Channels:**
