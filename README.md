@@ -7,8 +7,10 @@
 
 - **From Cyber security to Software Solutions we've got you covered.** (@TheHattersPlayground.com)
 
-- **Franchises**
-#H4cked_it ./#H4c3d_1t.exe #H4ck3d_1t
+- **Franchises:**
+#H4cked_it,
+./#H4c3d1t.exe,
+#H4ck3d_1t
 
 - **Blu Corbel aka DeadmanXXXII**
     themadhattersplayground@gmail.com    
