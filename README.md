@@ -144,11 +144,10 @@ She has asked for her details to remain private until requested.
 ### **Slide 7: Competitive Landscape**
 - **Competitor Overview:**
 In terms of competitive companies for cyber and information security there are thousands, Port swigger, NCSC, Canonical, the list goes on.
-What makes us stand out from the CrowdStrike is the fact we are a hardcore, experimental company and in doing so are developing the next generation of systems.
-You can have all the firewalls, boot sequences, rate limits you like but if its not configured to stop your expensive oay as you use systems from kicking in and costing you thousands is it really any use?
-Full on proper security means, tailored services, from generic solutions due too specific configurations.
-This is what your famcy new so called OOTB Mid-Market system says isn't it so why doesn't it work.
-That's why it needs tuned.
+What makes us stand out from the CrowdStrike is the fact we are a hardcore experimental company and in doing so are developing the next generation of systems that are needed now.
+You can have all the firewalls, boot sequences, rate limits you like but if its not configured to stop your expensive pay as you use systems from kicking in and costing you thousands is it really any use?
+Full on proper security means, tailored services, from generic solutions due too specific configurations and this can be done with little experience and cost with our services.
+This is what your fancy new so called OOTB Mid-Market system says isn't it so why doesn't it work. That's why it needs tuned and tailored which is an extra consultation fee on top.
 - **Unique Selling Propositions (USPs):** Our solutions are easier tuned than other OOTB Mid-Market tools as they are built to be ran in the labs we have developed so you get hands on training with your tools.
 
 ### **Slide 8: Business Model**
