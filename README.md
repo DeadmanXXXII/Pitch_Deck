@@ -107,7 +107,8 @@ Working in collaboration with the safer internet project in Australia and the Go
 - **External Third party Digital Art and content creation company:**
 
 **ArtzNGamez**
-This is owmed by Miss Cody Willett, she is a young, inspired amd passionate artist with a deep desire for integration with technology to produce masterpieces, the hand drawn and AI driven artwork on my website was for my NFTs and CyberShorts series was all derived from her work which was then tailored by us. A full working and professional rapport with this company has been established and is continuing.
+This is owned by Miss Cody Willett, she is a young, inspired and passionate artist with a deep desire for integration with technology to produce masterpieces. The hand drawn and AI driven artwork on my website for my NFTs and CyberShorts series was all derived from her work which was then tailored by us. 
+A full working and professional rapport with this company has been established and is continuing.
 She has asked for her details to remain private until requested.
   
 
