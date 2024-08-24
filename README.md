@@ -319,18 +319,68 @@ As the first series closes the expanding our network of professionals we can rel
    - **Aerospace Security:** Continue expanding Red Horizon Labs to address emerging threats in the aerospace sector. Collaborate with industry experts to stay at the forefront of aerospace cybersecurity.
    - **Innovative Solutions:** Stay committed to research and development, exploring new technologies and methodologies to keep The Mad Hatter's Playground at the cutting edge of cybersecurity.
 
-
 ### **Slide 13: Investment Ask**
-- **Funding Requirements:** Clearly state how much funding you are seeking.
-- **Use of Funds:** Break down how you plan to use the investment (e.g., product development, marketing, hiring, etc.).
-- **Expected Outcomes:** Highlight the key milestones you expect to achieve with the funding.
+
+#### **Funding Requirements:**
+- **Amount:** Seeking £250,000 to £500,000 through Floow.
+  
+#### **Use of Funds:**
+1. **Marketing and Sales Team:** 
+   - **Allocation:** A significant portion of the funding will be dedicated to hiring a high-level commission-based marketing and sales team. The team will be onboarded on an exo-facto basis, meaning their continuation with the company is dependent on performance and company success.
+   - **Goal:** Drive customer acquisition, increase brand awareness, and secure more sales to fuel company growth.
+
+2. **Permanent Business Location:**
+   - **Allocation:** Secure a physical office space and postal address for business operations, improving legitimacy and operational efficiency.
+   - **Goal:** Establish a credible and professional business presence, which is essential for securing partnerships and attracting clients.
+
+3. **Notary Patents and Legal Protections:**
+   - **Allocation:** Invest in securing patents for proprietary technologies, especially in the areas of ransomware defense, quantum security, and incident response.
+   - **Goal:** Protect intellectual property and ensure that The Mad Hatter's Playground has a defensible competitive advantage in the market.
+
+4. **Technological Resources and Quantum Unit:**
+   - **Allocation:** Upgrade technological infrastructure, including the procurement of a non-virtualized quantum unit for the development of quantum defense mechanisms.
+   - **Goal:** Stay at the forefront of cybersecurity innovation by developing next-gen quantum defense tools, which can then be virtualized for cloud deployments.
+
+5. **Company Scaling and Expansion:**
+   - **Allocation:** Invest in scaling the company, including expanding the product offerings, launching new franchises, and enhancing physical product production.
+   - **Goal:** Grow the business to serve a larger market, increase revenue streams, and establish a global presence.
+
+6. **Freemium Feature Improvements:**
+   - **Allocation:** Enhance the freemium features of your products to attract more users and convert them into paying Premium customers.
+   - **Goal:** Increase the user base and drive revenue by offering compelling free features that lead to upsell opportunities.
+
+7. **No Need for an Accountant:**
+   - **Allocation:** As QuickBooks is already in use, no additional funds are required for accounting services, allowing more resources to be allocated towards growth initiatives.
+
+#### **Expected Outcomes:**
+- **Marketing and Sales Success:** A well-executed marketing and sales strategy that drives significant customer acquisition and revenue growth.
+- **Operational Stability:** A permanent business location that enhances operational stability and credibility.
+- **Patent Protections:** Secured patents that protect proprietary technologies, strengthening the company’s competitive position.
+- **Quantum Defense Development:** Successful development of quantum defense mechanisms, positioning The Mad Hatter's Playground at the cutting edge of cybersecurity.
+- **Company Growth:** Achieving key milestones in scaling, expanding franchises, and enhancing product offerings, leading to a sustainable and profitable business.
+- **Increased Revenue:** Improved freemium features leading to higher conversion rates and increased premium subscriptions.
 
 ### **Slide 14: Closing and Contact Information**
-- **Thank You Message**
-- **Call to Action:** Encourage investors or partners to reach out.
-- **Contact Information:** Include your email, phone number, and social media handles.
 
-### **Additional Tips:**
-- **Visuals:** Include screenshots or mockups of your platform, GitHub repository, and clothing line to make the presentation more engaging.
-- **Consistency:** Ensure your branding is consistent across all slides (colors, fonts, logos).
-- **Brevity:** Keep text minimal and focus on key points, using visuals and bullet points for clarity.
+#### **Thank You Message:**
+Thank you for taking the time to learn about The Mad Hatter's Playground. We believe in the strength of our vision and the innovation behind our products. We are committed to shaping the future of cybersecurity and making advanced protection accessible to mid-market companies around the world.
+
+#### **Call to Action:**
+We invite you to join us on this exciting journey. Whether you’re interested in investing, partnering, or simply learning more, we would love to connect. Together, we can drive the next wave of cybersecurity innovation and make a real impact on businesses and communities.
+
+#### **Contact Information:**
+- **Website:** [https://the-mad-hatters-playground.com](https://the-mad-hatters-playground.com)
+- **GitHub:** [DeadmanXXXII GitHub](https://github.com/DeadmanXXXII)
+- **LinkedIn:** [Blu Corbel LinkedIn](https://www.linkedin.com/in/blu-corbel-bb5700265)
+- **Email:** [themadhattersplayground@gmail.com](themadhattersplayground@gmail.com)
+- **Phone Number:** +44 7576 285686
+- **Instagram:** [CyberShorts2024](https://www.instagram.com/cybershorts2024/)
+- **YouTube:** [CyberShorts2024 Channel](https://youtube.com/@themadhattersplayground?si=4wBiw_MAix1Vqwol)
+- **Discord:** [Join Our Community](https://discord.com/invite/GJZzTme4Uv)
+
+#### **Closing Statement:**
+The Mad Hatter's Playground is poised for a bright and successful future. With a strong foundation of innovative products, a clear growth strategy, and a passionate team, we are well-positioned to lead the charge in cybersecurity. Our unique approach to solving complex challenges makes us not just an investment, but an educated and strategic one. We are confident that with your support, we will achieve our vision and deliver significant returns on investment. Let’s build a safer digital world together.
+
+# Many thanks:
+**CEO/Founder:**
+Blu Corbel
