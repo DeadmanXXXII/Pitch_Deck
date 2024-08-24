@@ -21,7 +21,7 @@
 - **Logo and Websites:**
 
 **Wix based:**
-                           [https://the-mad-hatters-playground.com](https://the-mad-hatters-playground.com)
+[https://the-mad-hatters-playground.com](https://the-mad-hatters-playground.com)
 
 **Independent build under construction:**
 [https://deadmanxxxii.github.io](https://deadmanxxxii.github.io)
