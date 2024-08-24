@@ -250,11 +250,29 @@ As the first series closes the expanding our network of professionals we can rel
 #### **Break-Even Point:**
 - **Target Date:** End of Year 2, as you steadily acquire customers and scale your operations. Focus on profitability and reinvestment from Year 3 onward.
 
-
 ### **Slide 11: Team Overview**
-- **Founder/CEO:** Highlight your experience and vision for The Mad Hatter's Playground.
-- **Key Team Members:** Briefly introduce other key players and their expertise.
-- **Advisors:** If applicable, mention any advisors with relevant industry experience.
+
+#### **Founder/CEO: Blu Corbel (AKA DeadmanXXXII)**
+- **Experience and Vision:** Blu Corbel is the visionary behind The Mad Hatter's Playground, combining deep cybersecurity expertise with innovative thinking. As a seasoned Purple Team architect, Blu leads the technical development of the platform, ensuring it stays ahead of emerging threats. His goal is to create a comprehensive and accessible cybersecurity solution that empowers mid-market companies to protect themselves effectively.
+
+#### **Key Team Members:**
+1. **James Hernandez - DV Cleared C-Suite Administrator, Technical Second Line, and Logistics Manager:**
+   - James is a vital component of The Mad Hatter's Playground operations, providing high-level administrative support and technical second-line assistance. With a DV clearance, he manages logistics and ensures that operations run seamlessly, especially during mission-critical moments.
+
+2. **Cody Willett - Art and Illustrations Manager, CEO of ArtzNGamez:**
+   - As the creative force behind The Mad Hatter's Playground, Cody manages all artistic aspects of the platform. With her expertise in visual storytelling, she ensures that the brand is visually compelling and that the cybersecurity concepts are effectively communicated through engaging art and design.
+
+3. **[Open Position] - Marketing Manager:**
+   - **Role:** The Marketing Manager will spearhead all marketing initiatives, including digital marketing, content strategy, and social media campaigns. This person will work closely with the team to develop and execute marketing plans that drive brand awareness, customer acquisition, and revenue growth.
+   - **Requirements:** A strong background in digital marketing, with experience in the tech or cybersecurity sector. Proven success in lead generation and content marketing is a must.
+
+4. **[Open Position] - Sales Manager:**
+   - **Role:** The Sales Manager will lead the sales strategy, overseeing direct sales, online sales, and the expansion of the franchising efforts. This person will manage the sales team and work on acquiring new clients, developing sales processes, and closing deals that drive the company’s revenue goals.
+   - **Requirements:** Experience in B2B sales, preferably within the cybersecurity industry. Strong negotiation skills and a track record of exceeding sales targets are essential.
+
+#### **Third-Party Advisor:**
+1. **Wesley Gerrard - CEO of FourFourCyber Cardiff:**
+   - Wesley provides external advisory support for The Mad Hatter's Playground, particularly during critical projects. As the CEO of FourFourCyber Cardiff, his extensive industry knowledge and experience offer invaluable guidance, ensuring the platform's strategies and operations are aligned with best practices and emerging trends.
 
 ### **Slide 12: Milestones and Roadmap**
 - **Current Achievements:** Highlight milestones you've already reached, such as product development, partnerships, or user growth.
