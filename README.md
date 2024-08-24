@@ -1,4 +1,4 @@
-# Pitch_Deck
+# Pitch Deck
 
 ### **Slide 1: Title Slide**
 - **@TheMadHattersPlayground.com**
@@ -160,7 +160,7 @@ This is what your fancy new so called OOTB Mid-Market system says isn't it so wh
 - **Revenue Streams:** including:
   - **Subscription-Based Service's and One of Payments:** For access to labs and GitHub solutions.
 The blockchains are ready to be tokenized into cryptocurrency with investment immediately.
-  - **Franchise Sales:** For the #H4cked_It clothing brand.
+  - **Franchise Sales:** For the #H4cked_It clothing brand and Anonymous Heroes comics.
   - **Ad Revenue and Sponsorships:** From CyberShorts2024 content channels.
   - **Crypto Token Transactions:** Through the Solana-based token.
 ./#H4c3d1t.exe
