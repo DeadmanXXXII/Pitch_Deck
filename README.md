@@ -283,8 +283,42 @@ As the first series closes the expanding our network of professionals we can rel
    - Wesley provides external advisory support for The Mad Hatter's Playground, particularly during critical projects. As the CEO of FourFourCyber Cardiff, his extensive industry knowledge and experience offer invaluable guidance, ensuring the platform's strategies and operations are aligned with best practices and emerging trends.
 
 ### **Slide 12: Milestones and Roadmap**
-- **Current Achievements:** Highlight milestones you've already reached, such as product development, partnerships, or user growth.
-- **Future Goals:** Outline your roadmap for the next 12-24 months, including transitioning to Cloudflare hosting, expanding product offerings, and scaling the business.
+
+#### **Current Achievements:**
+
+1. **Product Development:**
+   - **Chaveiros Ransomware Defense System:** Developed an innovative, legally compliant ransomware defense tool, Chaveiros, on a cloud-based system hosted in Arabia. By leveraging legal frameworks that allow the use of ransomware for research purposes, Chaveiros enables CISOs to legally and safely simulate and defend against ransomware attacks. It utilizes memory scanning, network sniffing, and encryption key forging to offer robust protection against real-world threats.
+   - **Labyrinth Directory Monitoring and Incident Response Tool:** Created Labyrinth, a unique tool that triggers fernet encryption when sensitive directories are accessed. This innovative approach to protecting information, combined with manual or automated decryption capabilities via Windows Task Manager, represents a significant advancement in cybersecurity defense. This tool is designed to mitigate the impact of incidents like the WannaCry ransomware attack.
+   - **CyberWarrior and QuickSwitch:** Developed CyberWarrior, an automated pen-testing and security update system. Combined with QuickSwitch, an address-swapping tool, CyberWarrior provides comprehensive protection. These tools highlighted the challenges of data encryption and key management, leading to the creation of Chaveiros.
+   - **Bootstrapped Success:** Started with nothing but skill, dedication, and a vision. Overcame numerous challenges and honed cybersecurity skills, leading to the development of market-ready products that have real-world applicability and value.
+
+2. **Partnerships and Collaborations:**
+   - **Partnerships with Legal Advisors in Arabia:** Established legal partnerships that allowed for the development of Chaveiros in compliance with regional laws.
+   - **Initial Community Building:** Launched the CyberShorts2024 channels on Instagram and YouTube, and began building a community on Discord to engage with potential users and advocates.
+
+#### **Future Goals (Next 12-24 Months):**
+
+1. **Transition to Cloudflare Hosting (Q3 2024):**
+   - Complete the transition from Wix to a Cloudflare self-hosted operation, improving performance, security, and scalability.
+   - Leverage Cloudflare's advanced security features to enhance the overall protection and reliability of The Mad Hatter's Playground platform.
+
+2. **Expand Product Offerings (Q4 2024 - Q2 2025):**
+   - **Ransomware Defense Expansion:** Continue refining Chaveiros and expand its functionality to include more advanced threat detection and response capabilities. Develop case studies to demonstrate its effectiveness in real-world scenarios.
+   - **Labyrinth Automation:** Integrate automated decryption features into Labyrinth, making it more user-friendly and accessible for mid-market companies.
+   - **CyberWarrior and QuickSwitch Enhancements:** Further develop these tools to address emerging threats, ensuring that they remain relevant and effective as cybersecurity challenges evolve.
+
+3. **Business Scaling (2025):**
+   - **Customer Acquisition:** Focus on acquiring mid-market clients, particularly in aerospace, finance, and healthcare sectors. Launch targeted marketing campaigns to attract new customers.
+   - **Global Expansion:** Begin expanding internationally by establishing partnerships and franchising ./#H4cked1t, starting with key markets in Europe and Asia.
+   - **Community Growth:** Expand the Discord channel and social media presence, turning early adopters into brand advocates and leveraging user-generated content to build credibility.
+
+4. **Seek Funding and Investment (Q1 2024):**
+   - Use the progress made in product development and initial customer traction to secure funding. Position The Mad Hatter's Playground as a unique and scalable solution in the cybersecurity market, ready for investment to fuel growth and expansion.
+
+5. **Advanced Research and Development (2025):**
+   - **Aerospace Security:** Continue expanding Red Horizon Labs to address emerging threats in the aerospace sector. Collaborate with industry experts to stay at the forefront of aerospace cybersecurity.
+   - **Innovative Solutions:** Stay committed to research and development, exploring new technologies and methodologies to keep The Mad Hatter's Playground at the cutting edge of cybersecurity.
+
 
 ### **Slide 13: Investment Ask**
 - **Funding Requirements:** Clearly state how much funding you are seeking.
