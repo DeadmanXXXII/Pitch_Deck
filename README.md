@@ -1,4 +1,20 @@
-# Pitch Deck
+# **Pitch Deck for:** @TheMadHattersPlayground.com
+
+## Index
+1. [Slide 1: Title Slide](#slide-1-title-slide)
+2. [Slide 2: Problem Statement](#slide-2-problem-statement)
+3. [Slide 3: Solution Overview](#slide-3-solution-overview)
+4. [Slide 4: Product Details](#slide-4-product-details)
+5. [Slide 5: Diversified Offerings](#slide-5-diversified-offerings)
+6. [Slide 6: Market Opportunity](#slide-6-market-opportunity)
+7. [Slide 7: Competitive Landscape](#slide-7-competitive-landscape)
+8. [Slide 8: Business Model](#slide-8-business-model)
+9. [Slide 9: Go-to-Market Strategy](#slide-9-go-to-market-strategy)
+10. [Slide 10: Financial Projections](#slide-10-financial-projections)
+11. [Slide 11: Team Overview](#slide-11-team-overview)
+12. [Slide 12: Milestones and Roadmap](#slide-12-milestones-and-roadmap)
+13. [Slide 13: Investment Ask](#slide-13-investment-ask)
+14. [Slide 14: Closing and Contact Information](#slide-14-closing-and-contact-information)
 
 ### **Slide 1: Title Slide**
 - **@TheMadHattersPlayground.com**
