@@ -76,6 +76,7 @@ Our tools such as ZombieSlayer (which scans all ports and kills remote connectio
 
 - **Hunter, HunterGPT and Red Horizon Labs**
 This is a bug bounty program, a custom GPT module and the machine setups for each of the labs. This includes frontend and backend designs, tools and samples. For the latter you must be added as a collaborator on the repository for legal logging reasons non-negotiable.
+
 [Hunter, HunterGPT and Red Horizon labs](https://github.com/DeadmanXXXII/Hunter-HunterGPT)
 
 [Ransomware Defense lab and Chaveiros system](https://github.com/DeadmanXXXII/Ransomeware_Defense)
@@ -89,7 +90,7 @@ I have contact with production teams and they await orders.
 - **Crypto Token ./#H4c3d1t.exe:**
 Under the direction of loopcreativeandy a YouTuber I got into token creation on Solana using the CLI Solana tools. With this you are able to airdrop real Solana too build tokens on with added metadata and an NFT piece of Artwork included.
 
-  [Solana Explorer Address](https://explorer.solana.com/address/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe)
+[Solana Explorer Address](https://explorer.solana.com/address/BFq4DbQodNPCM3WaMv8awndzkXJYcU53unNMYhkWfYKe)
 
 - **CyberShorts2024 (Instagram & YouTube):**
 These channels showcase iur skills and knowledge.
