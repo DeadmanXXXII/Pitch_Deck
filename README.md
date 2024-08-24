@@ -74,7 +74,7 @@ Our tools such as ZombieSlayer (which scans all ports and kills remote connectio
 
 ### **Slide 5: Diversified Offerings**
 
-- **Hunter, HunterGPT and Red Horizon Labs**
+- **Hunter, HunterGPT and Red Horizon Labs:**
 This is a bug bounty program, a custom GPT module and the machine setups for each of the labs. This includes frontend and backend designs, tools and samples. For the latter you must be added as a collaborator on the repository for legal logging reasons non-negotiable.
 
 [Hunter, HunterGPT and Red Horizon labs](https://github.com/DeadmanXXXII/Hunter-HunterGPT)
@@ -125,12 +125,6 @@ Working in collaboration with the safer internet project in Australia and the Go
 - **Cryptocurrency Companies:** As cryptocurrencies become more mainstream, they are increasingly targeted by cybercriminals. The Mad Hatter's Playground provides blockchain-based security solutions that safeguard digital assets and prevent unauthorized access.
 - **Educational Institutions and Startups:** These entities often struggle with cybersecurity due to budget constraints and a lack of expertise. The platform offers scalable solutions that grow with them, providing protection at every stage of their development.
 
----
-
-### **Key Messaging for Slide 6:**
-- **Underserved Mid-Market:** Emphasize that your platform is designed specifically for the mid-market segment, a large and growing sector that lacks effective cybersecurity solutions.
-- **Built-In Expertise:** Highlight that The Mad Hatter's Playground eliminates the need for costly consultants by providing expert support as part of its service, making advanced cybersecurity accessible and affordable.
-- **Diverse Target Audience:** Showcase the wide range of industries and organizations that can benefit from your platform, reinforcing the scalability and versatility of your solutions.
 
 ### **Slide 7: Competitive Landscape**
 - **Competitor Overview:**
