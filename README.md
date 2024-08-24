@@ -68,7 +68,7 @@ In these exercises you need to use a combination of Ethical hacking, Signal pigg
 Learn Ddos through various methods including resource exhaustion, memory corruption, system stress and overclocking, stress errors so on. Learning your enemy means you can learn to use your rate limits to stop proxies, user agents and other bypassing techniques.
 - **Ransomware Defense Labs:**
 Our solution stops Ransomware in its tracks, learn how ransomware works and how to mitigate it using Chaveiros.
-There are three stages and on two you actually get to use samples. However, for legal reasons you must provide ID and be logged in the repository as a collaborative partner forever onve viewing (non-negotiable for legal reasons.)
+There are three stages and on two you actually get to use samples. However, for legal reasons you must provide ID and be logged in the repository as a collaborative partner forever on viewing (non-negotiable for legal reasons.)
 - **DeadmanXXXII GitHub:**
 Our tools such as ZombieSlayer (which scans all ports and kills remote connections and the processes involved.), Labyrinth (My automated incident response tool that can be integrated with windows task manager), Quick fire secure servers (nginx, azure, AWS, GCP and my custom Home2Cloud servers for scaling from home to company), Basic-SOCDrills (A script that allows multiple defense procedures to be completed simultaneously), QuickSwitch (Gives xou some breathing space during a zero day event by rewriting xour technology addressing including MAC)and CyberWarrior a fully automated enterprise security system including threat hunting, pentesting, network sniffing, user behavior detection, system and database updates the full package.
 
