@@ -113,9 +113,10 @@ That's why it needs tuned.
 - **Revenue Streams:** including:
   - **Subscription-Based Service's and One of Payments:** For access to labs and GitHub solutions.
 The blockchains are ready to be tokenized into cryptocurrency with investment immediately.
-  - **Franchise Sales:** For the ./#H4cked1t clothing brand.
+  - **Franchise Sales:** For the #H4cked_It clothing brand.
   - **Ad Revenue and Sponsorships:** From CyberShorts2024 content channels.
   - **Crypto Token Transactions:** Through the Solana-based token.
+./#H4c3d1t.exe
 - **Pricing Strategy:**
 All products will have single and bundle option.
 There will be membership offers.
